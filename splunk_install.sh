@@ -8,4 +8,4 @@ sudo wget https://sysgainelkstorage.blob.core.windows.net/splunk-install/splunk-
 
 sudo dpkg -i splunk-6.4.1-debde650d26e-linux-2.6-amd64.deb
 
-sudo /opt/splunk/bin/splunk start --accept-license
+# sudo /opt/splunk/bin/splunk start --accept-license
